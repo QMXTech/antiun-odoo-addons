@@ -24,7 +24,7 @@
 
 {
     "name": "Remove odoo.com bindings on website",
-    "version": "1.0",
+    "version": "10.0.1.0",
     "author": "Antiun Ingeniería S.L.",
     "license": "AGPL-3",
     "category": "Personalization",
